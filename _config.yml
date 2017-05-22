@@ -4,7 +4,7 @@
 title: MILLER LAB
 description: "Cardiovascular Functional Genomics"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "" #important: start with /
+baseurl: "https://github.com/clintmil"
 url: "/clintmil3.github.io"
 
 # Build settings
